@@ -1,0 +1,37 @@
+.napis h1{
+    font-size: 80px;
+}
+.Losowanerel{
+    font-size: 35px;
+}
+.zakres{
+    font-size: 35px;
+}
+.przyciski{
+    position: relative;
+    font-size: 35px;
+    left: 46.5%;
+}
+.legit{
+    position: absolute;
+    transform: translateY(50%);
+    transform: translateX(25.5%);
+    font-size: 35px;
+
+}
+.legit button {
+    font-size: 20px;
+}
+.falszywka{
+    position: absolute;
+}
+.falszywka button{
+    width: 125px;
+    height: 50px;
+    background:transparent;
+    border:none;
+    outline:none;
+    overflow: visible;
+}
+
+
